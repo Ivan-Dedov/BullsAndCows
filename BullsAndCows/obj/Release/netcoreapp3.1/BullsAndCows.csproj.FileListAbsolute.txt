@@ -1,0 +1,13 @@
+C:\Учеба\c_sharp\BullsAndCows\BullsAndCows\bin\Release\netcoreapp3.1\BullsAndCows.exe
+C:\Учеба\c_sharp\BullsAndCows\BullsAndCows\bin\Release\netcoreapp3.1\BullsAndCows.deps.json
+C:\Учеба\c_sharp\BullsAndCows\BullsAndCows\bin\Release\netcoreapp3.1\BullsAndCows.runtimeconfig.json
+C:\Учеба\c_sharp\BullsAndCows\BullsAndCows\bin\Release\netcoreapp3.1\BullsAndCows.runtimeconfig.dev.json
+C:\Учеба\c_sharp\BullsAndCows\BullsAndCows\bin\Release\netcoreapp3.1\BullsAndCows.dll
+C:\Учеба\c_sharp\BullsAndCows\BullsAndCows\bin\Release\netcoreapp3.1\BullsAndCows.pdb
+C:\Учеба\c_sharp\BullsAndCows\BullsAndCows\obj\Release\netcoreapp3.1\BullsAndCows.csprojAssemblyReference.cache
+C:\Учеба\c_sharp\BullsAndCows\BullsAndCows\obj\Release\netcoreapp3.1\BullsAndCows.AssemblyInfoInputs.cache
+C:\Учеба\c_sharp\BullsAndCows\BullsAndCows\obj\Release\netcoreapp3.1\BullsAndCows.AssemblyInfo.cs
+C:\Учеба\c_sharp\BullsAndCows\BullsAndCows\obj\Release\netcoreapp3.1\BullsAndCows.csproj.CoreCompileInputs.cache
+C:\Учеба\c_sharp\BullsAndCows\BullsAndCows\obj\Release\netcoreapp3.1\BullsAndCows.dll
+C:\Учеба\c_sharp\BullsAndCows\BullsAndCows\obj\Release\netcoreapp3.1\BullsAndCows.pdb
+C:\Учеба\c_sharp\BullsAndCows\BullsAndCows\obj\Release\netcoreapp3.1\BullsAndCows.genruntimeconfig.cache
